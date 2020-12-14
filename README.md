@@ -13,7 +13,7 @@ The modules containing the implementations of the algorithms are in the main dir
 - `trees.py`
 - `vl_codes.py`
 
-The raw and compressed data is in the `data` directory. Files used are the `hamlet.txt` file and multiple others from the [The Canterbury Corpus](https://corpus.canterbury.ac.nz/) 
+The raw and compressed data is in the `data` directory. Files used are the `hamlet.txt` file and multiple others from the [The Canterbury Corpus](https://corpus.canterbury.ac.nz/).
 
 Demonstration jupyter notebooks are in the main directory and are suffixed by `demo.ipynb`, these are:
 - `ftr_handout_demo.ipynb` — the modified FTR handout
